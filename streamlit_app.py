@@ -52,13 +52,8 @@ except URLError as e:
     streamlit.error()
 
 
-
-
-
 #don't run past here while we troubleshoot
-streamlit.stop()
-
-
+#streamlit.stop()
 
 
 #my_cur = my_cnx.cursor()
